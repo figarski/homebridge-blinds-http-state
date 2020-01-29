@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-blinds-cmd-zh",
+  "version": "1.0",
+  "description": "A homebridge plugin to control my blinds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homekit"
+  ],
+  "engines": {
+    "node": ">4.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoltanhosszu/homebridge-blinds.git"
+  },
+  "author": "Zoltan Hosszu <hello@zoltan.co>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
