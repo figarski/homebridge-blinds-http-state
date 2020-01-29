@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-blinds-cmd-zh",
+  "name": "homebridge-blinds-http-state",
   "version": "1.0",
-  "description": "A homebridge plugin to control my blinds",
+  "description": "A homebridge plugin to control blinds over http with simulated position & state based on opening/closing time",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zoltanhosszu/homebridge-blinds.git"
+    "url": "git+https://github.com/figarski/homebridge-blinds-http-state.git"
   },
-  "author": "Zoltan Hosszu <hello@zoltan.co>",
+  "author": "Michał Figarski <michal.figarski@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "request": "^2.74.0"
