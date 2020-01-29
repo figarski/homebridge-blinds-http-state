@@ -22,7 +22,7 @@ Add the accessory in `config.json` in your home directory inside `.homebridge`.
 
 ```js
     {
-      "accessory": "BlindsCMDZH",
+      "accessory": "BlindsHttpWithState",
       "name": "Window",
       "up_cmd": "http://example.com/?action=up",
       "down_cmd": "http://example.com/?action=down",
