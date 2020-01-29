@@ -1,6 +1,6 @@
 {
   "name": "homebridge-blinds-http-state",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A homebridge plugin to control blinds over http with simulated position & state based on opening/closing time",
   "main": "index.js",
   "scripts": {
